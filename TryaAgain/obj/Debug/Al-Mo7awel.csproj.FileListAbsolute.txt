@@ -1,0 +1,3 @@
+C:\Users\Yasien\Documents\Visual Studio 2013\Projects\TryaAgain\TryaAgain\bin\Debug\TryaAgain.exe.config
+C:\Users\Yasien\Documents\Visual Studio 2013\Projects\TryaAgain\TryaAgain\obj\Debug\TryaAgain.exe
+C:\Users\Yasien\Documents\Visual Studio 2013\Projects\TryaAgain\TryaAgain\obj\Debug\TryaAgain.pdb

@@ -1,0 +1,10 @@
+c:\users\yasien\documents\visual studio 2013\Projects\TryaAgain\TryaAgain\bin\Debug\TryaAgain.exe.config
+c:\users\yasien\documents\visual studio 2013\Projects\TryaAgain\TryaAgain\bin\Debug\TryaAgain.exe
+c:\users\yasien\documents\visual studio 2013\Projects\TryaAgain\TryaAgain\bin\Debug\TryaAgain.pdb
+c:\users\yasien\documents\visual studio 2013\Projects\TryaAgain\TryaAgain\bin\Debug\Newtonsoft.Json.dll
+c:\users\yasien\documents\visual studio 2013\Projects\TryaAgain\TryaAgain\obj\Debug\TryaAgain.Form1.resources
+c:\users\yasien\documents\visual studio 2013\Projects\TryaAgain\TryaAgain\obj\Debug\TryaAgain.Properties.Resources.resources
+c:\users\yasien\documents\visual studio 2013\Projects\TryaAgain\TryaAgain\obj\Debug\TryaAgain.csproj.GenerateResource.Cache
+c:\users\yasien\documents\visual studio 2013\Projects\TryaAgain\TryaAgain\obj\Debug\TryaAgain.exe
+c:\users\yasien\documents\visual studio 2013\Projects\TryaAgain\TryaAgain\obj\Debug\TryaAgain.pdb
+C:\Users\Yasien\Documents\Visual Studio 2013\Projects\TryaAgain\TryaAgain\obj\Debug\TryaAgain.csprojResolveAssemblyReference.cache
